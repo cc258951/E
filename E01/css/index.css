@@ -498,7 +498,7 @@ select::-ms-expand {
 
 /*casino*/
 .casino-wrap {
-    height: 89.5vh;
+    height: 850px;
     background: url(../img/casino/bg.png) no-repeat;
     background-position: 50% 0;
     background-size: cover;
@@ -928,7 +928,7 @@ select::-ms-expand {
 
 /*lottery*/
 .lottery-wrap {
-    height: 90vh;
+    height: 850px;
     background: url(../img/lottery/bg.png) no-repeat;
     background-position: 50% 0;
     position: relative;
